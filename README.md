@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am currently doing Bachelor's of computer Science Specialization in Artificial intelligence.<br>I want to learn AI agents and AI automation.<br>I know python, react, firebase and database management and data mining.<br>I have learned machine learning and deep learning.<br>And I also doing Image processing and computer vision course.
 
+- 🎓 Computer Science student specializing in Artificial Intelligence at NED University
+- 🤖 Passionate about AI Agents and AI Automation
+- 💻 Skilled in Python, React, Firebase, Database Management, and Data Mining
+- 📊 Experienced in Machine Learning and Deep Learning
+- 🖼️ Currently studying Image Processing and Computer Vision
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/18AYwbwfzY/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulwaqar916) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdul Waqar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulwaqarmangrio@gmail.com) 

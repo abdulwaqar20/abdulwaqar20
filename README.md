@@ -1,10 +1,11 @@
 # 💫 About Me:
 
-- 🎓 Computer Science student specializing in Artificial Intelligence at NED University
-- 🤖 Passionate about AI Agents and AI Automation
-- 💻 Skilled in Python, React, Firebase, Database Management, and Data Mining
-- 📊 Experienced in Machine Learning and Deep Learning
-- 🖼️ Currently studying Image Processing and Computer Vision
+- 🎓 BS Computer Science graduate (AI specialization) from NED University, Karachi
+- 🤖 Building AI agents, RAG systems, and LLM apps with Python, FastAPI, LangGraph, ChromaDB, Streamlit, and Groq
+- 🌾 Built KisaanAI — a 5-agent crop doctor that gives spoken Urdu advice to farmers
+- 🧠 Built GPT-2 from scratch in NumPy, plus PolicyPilot (a source-cited RAG policy chatbot)
+- 💻 Also hands-on with Machine Learning, Deep Learning, Computer Vision, and NLP
+- 🎯 Open to AI/ML Engineer and GenAI/LLM Engineer roles — portfolio: abdul-waqar-portfolio.vercel.app
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/18AYwbwfzY/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulwaqar916) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdul Waqar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulwaqarmangrio@gmail.com) 
